@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'Sunday';
+	src: 
+		url('fonts/sunday.woff2') format('woff2')
+}
+.new_font {
+    font-family: 'Sunday', sans-serif;
+}
+
+ul {
+    list-style: square;
+}
+
